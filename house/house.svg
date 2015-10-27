@@ -15,7 +15,10 @@
    id="svg4015"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="house.svg">
+   sodipodi:docname="house.svg"
+   inkscape:export-filename="/home/tylar/Cable-Inc./house/house-requested"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4017" />
   <sodipodi:namedview
@@ -69,11 +72,15 @@
        d="m 668.46966,150.65217 -60.12345,1.48628 -60.1381,0.66721 28.77457,-52.811567 29.49123,-52.414732 31.34887,51.32529 z"
        inkscape:transform-center-x="1.0962845"
        inkscape:transform-center-y="-13.800339"
-       transform="matrix(0.79220322,0.01821498,-0.01821498,0.79220322,-366.63043,2.95361)" />
+       transform="matrix(0.79220322,0.01821498,-0.01821498,0.79220322,-366.63043,2.95361)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        style="display:inline"
        transform="matrix(2.3705635,0,0,2.3705635,-1151.3304,13.389872)"
-       id="g3837">
+       id="g3837"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          transform="matrix(0.56471098,-0.01298428,-0.01298428,-0.56471098,296.45738,428.75481)"
          inkscape:transform-center-y="9.837365"
@@ -126,7 +133,9 @@
     <g
        transform="matrix(2.3705635,0,0,2.3705635,-178.12908,-1187.3211)"
        id="g3904"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          sodipodi:type="star"
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.3563261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -167,7 +176,9 @@
     <g
        style="display:inline"
        id="g5445"
-       transform="matrix(2.3705635,0,0,2.3705635,-935.66062,-270.94824)">
+       transform="matrix(2.3705635,0,0,2.3705635,-935.66062,-270.94824)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          transform="matrix(0.56471098,0.01298428,-0.01298428,0.56471098,201.78805,290.88345)"
          inkscape:transform-center-y="-9.8373602"
@@ -249,11 +260,25 @@
          id="tspan3359"
          x="238.07979"
          y="991.07739">cable-broken</tspan></text>
-    <ellipse
+    <circle
        id="path3361"
-       cx="855.59918"
-       cy="694.76825"
-       rx="25.253813"
-       ry="24.24366" />
+       cx="855.3454"
+       cy="694.0119"
+       r="25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="755.66113"
+       y="595.17389"
+       id="text3349-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3351-5"
+         x="755.66113"
+         y="595.17389">tech-reference</tspan><tspan
+         sodipodi:role="line"
+         x="755.66113"
+         y="645.17389"
+         id="tspan3396">50x50px</tspan></text>
   </g>
 </svg>
